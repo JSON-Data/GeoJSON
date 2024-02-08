@@ -1,0 +1,9 @@
+{
+  "public": {
+    "packages": {
+      "dynamic-import": {
+        "useLocationOrigin": true
+      }
+    }
+  }
+}
